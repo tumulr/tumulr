@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+
+I’m a **Staff Software Engineer** with over a decade of experience designing and building **scalable distributed systems**. My work spans **microservices, cloud-native platforms, event-driven architectures, and large-scale data processing**.  
+
+Over the years, I’ve led engineering teams, driven architecture decisions, and delivered resilient platforms powering millions of users. I enjoy solving complex problems, simplifying systems, and mentoring engineers to grow in their craft.  
+
+I’m passionate about **system design, performance optimization, and developer experience**. On this profile, you’ll find projects, experiments, and notes from my journey as I continue exploring **scalability, reliability, and emerging technologies**.  
+
+🚀 Always curious. Always building.  
+
 
 <!--
 **tumulr/tumulr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
