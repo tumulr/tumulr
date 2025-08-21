@@ -4,7 +4,7 @@ I’m a **Staff Software Engineer** with over a decade of experience designing a
 
 Over the years, I’ve led engineering teams, driven architecture decisions, and delivered resilient platforms powering millions of users. I enjoy solving complex problems, simplifying systems, and mentoring engineers to grow in their craft.  
 
-I’m passionate about **system design, performance optimization, and developer experience**. On this profile, you’ll find projects, experiments, and notes from my journey as I continue exploring **scalability, reliability, and emerging technologies**.  
+I use this space to share experiments, prototypes, and ideas as I explore the evolving landscape of distributed systems, cloud technologies, and software development.
 
 🚀 Always curious. Always building.  
 
